@@ -21,4 +21,4 @@
 ### 超链接和插入图片的语法
 
 * ![百度logo](https://www.baidu.com/img/bdlogo.gif)
-* 超链接[https://www.baidu.com)
+* [超链接](https://www.baidu.com)
